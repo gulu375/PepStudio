@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".MoviePlayer"
+    android:keepScreenOn="true"
+    android:background="@color/black"
+    android:id="@+id/movieplayer">
+<!--    <com.google.android.exoplayer2.ui.PlayerView-->
+<!--        android:id="@+id/player_view"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        app:controller_layout_id="@layout/front_layer"-->
+<!--        app:resize_mode="fill"-->
+<!--        app:surface_type="texture_view" />-->
+
+    <VideoView
+        android:id="@+id/movie_player"
+        android:configChanges="orientation"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerInParent="true"
+        />
+    <include layout="@layout/front_layer"/>
+
+</RelativeLayout>

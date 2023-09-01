@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Font Size of Movie Details-->
+    <dimen name="Font_Size_MD">17dp</dimen>
+    <dimen name="Movie_name">40dp</dimen>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PepStudio</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="database_reference">https://over-the-top-f1f76-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="facebook_app_id">101188886340740</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">6e508bedd73e660481eee1536707f550</string>
+    <!--    <string >23dp</string>-->
+    <string name="google_sign_androidId">744183864333-e5drk6n03kek0bet5erq13da355rdcn2.apps.googleusercontent.com</string>
+    <string name="google_web_client_id">744183864333-dejehs8g6d6f4ckrrmbu0sv5o9ctq81c.apps.googleusercontent.com</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+
+</resources>

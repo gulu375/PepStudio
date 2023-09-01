@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744183864333",
+    "project_id": "over-the-top-f1f76",
+    "storage_bucket": "over-the-top-f1f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744183864333:android:4d68996d92fec2f69c4944",
+        "android_client_info": {
+          "package_name": "com.example.overthetop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744183864333-f2gbf0fkrrmfav6qrd0asd3nsb3ltdn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOs9x-VZ-RABfvAJazJyL2NHjxgA1MLhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744183864333-f2gbf0fkrrmfav6qrd0asd3nsb3ltdn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

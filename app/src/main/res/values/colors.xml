@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#2196F3</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--    <color name="text_color">#4AABF8</color>-->
+<!--    <color name="data_color">#B2F5FD</color>-->
+    <color name="transparent">#00FFFFFF</color>
+<!--    <color name="text_color_search_card">#F6F6F6</color>-->
+    <!--    Main Activity-->
+    <color name="heading_color_ma">#C6000000</color>
+    <color name="heading_bg_ma">#A8FF0000</color>
+    <drawable name="button_style_ma">@drawable/capsule_button</drawable>
+
+    <color name="button_color_ma">#03A9F4</color>
+    <!--    Movie Player-->
+    <color name="movie_player_font_color">#ffffff</color>
+    <!--    Fragment Profile-->
+    <color name="profile_details_fp">#B2F5FD</color>
+    <color name="button_color_fp">#2196F3</color>
+    <color name="button_text_font_fp">#FFFFFF</color>
+    <!--    Movie Library-->
+    <color name="heading_color_ml">#B2F5FD</color>
+    <color name="heading_bg_ml">#2196F3</color>
+    <color name="button_color_ml">#03A9F4</color>
+    <color name="font_color_ml">#B2F5FD</color>
+    <!--    Movie Feed-->
+    <color name="heading_color_mf">#0E59AA</color>
+    <color name="heading_bg_mf">#03A9F4</color>
+    <color name="search_logo_mf">#2196F3</color>
+    <color name="fab_bg_mf">#2196F3</color>
+    <!--    Watch Library-->
+    <color name="heading_color_wl">#B2F5FD</color>
+    <color name="heading_bg_wl">#2196F3</color>
+    <!--    Favourite Library-->
+    <color name="heading_color_fl">#B2F5FD</color>
+    <color name="heading_bg_fl">#2196F3</color>
+    <!--    Search Slides-->
+    <color name="background_color_ss">#03A9F4</color>
+    <color name="details_font_color_ss">#F6F6F6</color>
+    <color name="button_font_color_ss">#F6F6F6</color>
+    <!--    Search Feed-->
+    <drawable name="button_style_sf">@drawable/capsule_button</drawable>
+    <!--    Login Activity-->
+    <color name="card_bg_la">#97FF0000</color>
+    <color name="edit_text_font_ip_la">#ffffff</color>
+    <color name="edit_text_font_hint_la">#ffffff</color>
+    <color name="creat_ac_font">#63C7F4</color>
+    <color name="new_to_ps_font_la">#FFFFFF</color>
+    <drawable name="sign_in_button_style_la">@drawable/capsule_button</drawable>
+    <!--    Movie Description-->
+    <color name="titel_card_bg_md">#2489D8</color>
+    <color name="titel_font_md">#FFFFFF</color>
+    <color name="details_name_color_md">#FFFFFF</color>
+    <color name="details_data_color_md">#939393</color>
+    <color name="fab_bg_md">#279DFA</color>
+    <color name="page_bg_md">#353535</color>
+</resources>
