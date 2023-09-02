@@ -7,5 +7,5 @@ We are cinephiles. We are deeply exploring the cinema culture for many years and
 ### User Interaction
 User will firstly enter the app and will see a welcome page with a begin button then with a click, they will be redirected to the login page. If user is already signed in then a fragment of 3 tabs will open else they can sign in with one touch sign in of google, facebook and apple. In the fragment there will 3 tabs that is movie feed, library and profile. The movie feed will be the list of movies that are in the server and a search button to find with name. In the library fragment It will show three short list of movies that you are selected as to watch, favourite and downloaded for offline streaming. In the profile fragment, it will represent dp of user, name and email id with list 3 buttons i.e change account, settings, logout will works as the name suggests. By clicking on a movie it will redirected to a page of description of the movie(cast, year, story, director, poster, distributor, ratings, etc.
 
-![Flowchart]C:\Users\Satyaki Chatterjee\Pictures\Saved Pictures\slide3-01.jpeg
+![Flowchart](C:\Users\Satyaki Chatterjee\Pictures\Saved Pictures\slide3-01.jpeg)
 
